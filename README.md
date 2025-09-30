@@ -1,2 +1,3 @@
-# epsi_code_tp
-Epsi code tp
+# Epsi code tp
+
+Quelques exercices ou tp.
